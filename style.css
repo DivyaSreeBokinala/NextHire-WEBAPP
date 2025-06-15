@@ -34,3 +34,6 @@ body {
 .button-width{
   width: 40%; 
 }
+.custom-form-button{
+  width:100px;
+}
